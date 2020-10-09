@@ -31,20 +31,17 @@
  <h4>英雄技能</h4>
 <img src="https://game.gtimg.cn/images/lol/act/img/passive/Kaisa_Passive.png">
 <p>被动技能:卡莎的普通攻击会叠加电浆，造成不断提升的额外魔法伤害。友军的定身效果也可以帮忙叠加电浆。此外，卡莎可通过购买装备来升级她的基础技能，让它们拥有更多强大的属性。</p>
-<img src=" https://game.gtimg.cn/images/lol/act/img/spell/KaisaQ.png">
-<p>Q技能:卡莎发射一大堆弹体来搜寻附近的目标。
-活体武器：这个技能得到升级，可发射更多弹体。</P>
-<img src=" https://game.gtimg.cn/images/lol/act/img/spell/KaisaW.png">
-<P>W技能:卡莎发射一束长程弹体，并用她的被动来标记敌人。
-活体武器：这个技能得到升级，可施加更多被动标记并在命中英雄时减少冷却时间。</P>
-<img src=" https://game.gtimg.cn/images/lol/act/img/spell/KaisaE.png">
-<P>E技能:卡莎暂时提升移动速度，随后提升攻击速度。
-活体武器：这个技能得到升级，可短暂提供隐形效果。</p>
-<img src=" https://game.gtimg.cn/images/lol/act/img/spell/KaisaR.png">
+<img src="https://game.gtimg.cn/images/lol/act/img/spell/KaisaQ.png">
+<p>Q技能:卡莎发射一大堆弹体来搜寻附近的目标。活体武器：这个技能得到升级，可发射更多弹体。</P>
+<img src="https://game.gtimg.cn/images/lol/act/img/spell/KaisaW.png">
+<P>W技能:卡莎发射一束长程弹体，并用她的被动来标记敌人。活体武器：这个技能得到升级，可施加更多被动标记并在命中英雄时减少冷却时间。</P>
+<img src="https://game.gtimg.cn/images/lol/act/img/spell/KaisaE.png">
+<P>E技能:卡莎暂时提升移动速度，随后提升攻击速度。活体武器：这个技能得到升级，可短暂提供隐形效果。</p>
+<img src="https://game.gtimg.cn/images/lol/act/img/spell/KaisaR.png">
 <p>R技能:卡莎突进到一个敌方英雄身边。</p>
  <h5>使用技巧</h5>
 <p>连招</p>
-<a herf=" https://jingyan.baidu.com/article/ca41422fffa2025fae99ed92.html">技巧篇</a>
+<a herf="https://jingyan.baidu.com/article/ca41422fffa2025fae99ed92.html">技巧篇</a>
  <h6>推荐出装</h6>
  <ol>
  <li>狂战士胫甲</li>
