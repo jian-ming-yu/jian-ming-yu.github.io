@@ -3,7 +3,7 @@
 <head>
 <meta charse ="utf-8"/>
 <title>英雄联盟卡莎介绍</title>
-<link herf="https://github.com/jian-ming-yu/jian-ming-yu.github.io/tree-save/master/_config.yml"rel="stylesheet"type="text/css"/>
+<link herf="https://github.com/jian-ming-yu/jian-ming-yu.github.io/edit/master/_config.yml"rel="stylesheet"type="text/css"/>
 </head>
 
 <body>
